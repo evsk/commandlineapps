@@ -1,0 +1,14 @@
+{
+  "name": "commandlineapps",
+  "version": "1.0.0",
+  "description": "short command line applications",
+  "main": "stockinfo.js",
+  "scripts": {
+    "stocks": "node stockinfo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
